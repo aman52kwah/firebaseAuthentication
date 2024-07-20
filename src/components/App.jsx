@@ -1,5 +1,5 @@
 
-import Signup from './signup'
+import Signup from '../Signup'
 
 function App() {
   
